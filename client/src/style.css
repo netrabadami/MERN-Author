@@ -1,0 +1,18 @@
+.container-fluid{
+    background-image: url("./bg.jpg");
+    height: 600px;
+    padding-top: 60px;
+}
+
+h1{
+    color: cornsilk;
+    font-size: 80px;
+}
+p{
+    margin-right: 400px;
+}
+h6{
+    font-weight: 400;
+    margin-right: 400px;
+    width:138px;
+}
